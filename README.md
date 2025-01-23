@@ -24,8 +24,9 @@ python chatbot.py
 Enter your input, and the chatbot will respond based on the data it has been trained with.
 
 # How It Works
-The chatbot has been trained with specific data and only responds based on this information.
-It runs in a simple graphical user interface (GUI) for easy interaction. 
+- The chatbot has been trained with specific data and only responds based on this information.
+- It runs in a simple graphical user interface (GUI) for easy interaction.
+
 
 # Need Help?
 If you have questions or run into issues, feel free to open an issue in the repository. 
